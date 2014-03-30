@@ -1,0 +1,51 @@
+Lab 7: Functions
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+How many parameters does the function divide() take? 
+
+ANSWER: The function divide() takes two parameters, the numerator and 
+denominator (or num and den as used in the function).
+
+
+
+QUESTION 2:
+Does the function divide() return a value? 
+
+ANSWER: The function divide() does return a value. It returns functionResult
+which is the result of dividing the numerator and denominator. It does not
+print a result though. Instead, the result is actually printed in the main
+function which calls upon divide().
+
+
+
+QUESTION 3:
+Is the output correct? If it is not, explain why. 
+
+ANSWER: The output is not correct because it prints that the main function
+of the numerator divided by the denominator equals 0 no matter what integers
+are input.
+
+
+
+QUESTION 4:
+How many parameters does tan() take? 
+
+ANSWER: tan() takes one parameter.
+
+
+
+QUESTION 5:
+How many parameters does pow() take? 
+
+ANSWER: pow() takes two parameters
+
+
+
+QUESTION 6:
+What type of value does floor() return? 
+
+ANSWER: It returns an integer.
+
+
+

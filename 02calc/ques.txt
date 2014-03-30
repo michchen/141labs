@@ -1,0 +1,28 @@
+Lab 2: Calculations
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+Why is it necessary to add the import math line for the program to work? 
+
+ANSWER: It is necessary because Python needs to be told to load the math module. 
+Any functions with math (ex. math.sqrt) are part of the math module which is 
+only loaded if the import math function is used.
+
+
+
+QUESTION 2:
+What result do you get with the new values? 
+
+ANSWER: The result I received from inputting the new values is 12.31990259701756.
+
+
+
+QUESTION 3:
+Why did these points work initially but cause an error after you made
+these changes? 
+
+ANSWER: The points (2.5, 16.3) and (3.2, 28.6) caused an error because I defined 
+all of the inputted points as integers, but these points are all floats. 
+The program worked at first because I did not label the points as floats or 
+integers, I just put them directly into the program. For this to work, I have 
+label the points I input as floats instead of integers.

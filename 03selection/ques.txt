@@ -1,0 +1,35 @@
+Lab 3: Selection
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What line of the program contains a syntax error? 
+
+ANSWER: Line 22 contains the syntax error because it contains "elseif" which is 
+not a function. It should instead be "elif".
+
+
+
+QUESTION 2:
+Is there an identifier that looks like it should be a keyword,
+but is not in bold face? What is the identifier? 
+
+ANSWER: Yes, the identifier "elseif" looks like it should be a keyword. It
+should instead say "elif".
+
+
+
+QUESTION 3:
+What is the result produced by the program when you enter the three
+grades: 55, 65, 75? Is it correct? 
+
+ANSWER: 55, 65, 75 => Average score of 65
+The output was 65, which is correct.
+
+
+
+QUESTION 4:
+What answer do you get for the input: 95, 95, 95?
+
+ANSWER: 95, 95, 95 => Average score = 95 / The student passed. / And got a D.
+The average score of 95 was correct, as was the student passing, but it also
+incorrectly states that the student received a D.

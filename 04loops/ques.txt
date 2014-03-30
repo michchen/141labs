@@ -1,0 +1,28 @@
+Lab 4: Loops
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What value does x contain? 
+
+ANSWER: x contains the value 0.0
+
+
+
+QUESTION 2:
+On what line does its value change? 
+
+ANSWER: The value of x technically changes on line 23 because at that point x is
+added to INC (which has a value of 0.5), so x becomes 0.5 at that point. But, x
+doesn't reflect that value until line 24.
+
+
+
+QUESTION 3:
+What is the hailstone sequence of 12? 
+
+ANSWER: 12 => 12 6 3 10 5 16 8 4 2 1
+The Hailstone sequence of 12 generates the above values all in one line with
+spaces between each number.
+
+
+

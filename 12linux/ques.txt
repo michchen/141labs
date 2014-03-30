@@ -1,0 +1,79 @@
+Lab 12: Linux
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What error is displayed? 
+
+ANSWER: It displays:
+If 'open' is not a typo you can use command-not-found to lookup the package
+that contains it, like this:
+    cnf open
+
+
+
+QUESTION 2:
+Describe briefly how the -l (lowercase L) option modifies the action
+of the ls command. 
+
+ANSWER: It shows a date and time along with the names of the files and
+directories. It also gives the name of the user and lists each of the
+directories in a separate line. Lastly, it gives a total (which for me was 40).
+
+
+
+QUESTION 3:
+What is the name of the current working directory? 
+
+ANSWER: /home/f85/mchen01/12linux
+
+
+
+QUESTION 4:
+What are the files contained in the 12linux directory? (Include only files
+not directories in your answer.) 
+
+ANSWER: There are 8 files in the directory:
+countwords.py, hello.py, names.txt, submit.py, findstring.py, lorem.txt, 
+ques.txt, and welcome.txt.
+
+
+
+QUESTION 5:
+What is the name of your working directory after executing ``cd..''? 
+
+ANSWER: /home/f85/mchen01
+
+
+
+QUESTION 6:
+What is the name of your current working directory? 
+
+ANSWER: /home/f85/mchen01/12linux
+
+
+
+QUESTION 7:
+This file contains a simple message. What does the file say? 
+
+ANSWER: The file says:
+Welcome to CS141 Lab!
+
+
+
+QUESTION 8:
+If you run command arg1 arg2 arg3 arg4 arg5 what index in sys.argv would
+arg3 show up in? 
+
+ANSWER: It would show up in index 3 because the command is also indexed into
+sys.argv.
+
+
+
+QUESTION 9:
+Where is Waldo? 
+
+ANSWER: Waldo is word 8 on line 19. No wonder I could never find him in those
+stupid picture books...
+
+
+

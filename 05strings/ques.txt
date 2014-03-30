@@ -1,0 +1,32 @@
+Lab 5: Strings
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+For each line that prints a result, list the line and the result.            
+
+ANSWER:
+x[:-1] --> 'abcd'
+x.islower() --> True
+x --> 'abcde'
+z --> 'ABCDE'
+a --> '12345'
+"to be, or not to be.".strip(",.") --> 'to be, or not to be'
+m + n --> 'ab12'
+n + m --> '12ab'
+s --> 'to BE or not to BE'
+s.replace("BE", "giggle") --> 'to giggle or not to giggle'
+w --> ['to', 'BE', 'or', 'not', 'to', 'BE']
+ord("a") --> 
+
+
+
+QUESTION 2:
+What answer do you get when you run the program with the input 9? 
+
+ANSWER: 
+9 --> 1
+01
+001
+1001
+
+I get the above answer with each set of numbers on a different line.

@@ -1,0 +1,28 @@
+Lab 8: Lists
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+For each line that prints a result, list the line and the result.        
+
+ANSWER:
+x[0] --> 1
+x[:-1] --> [1, 2]
+x --> [1, 2, 3]
+y --> [1, 2, 3]
+x[3] = 4 --> IndexError: list assignment index out of range
+x --> [1, 2, 3, 4]
+x --> [1, 2, 3, 4, 8, 9, 10]
+[0]*5 --> [0, 0, 0, 0, 0]
+
+QUESTION 2:
+What answer do you get when you enter an ending number of 12 into the program? 
+
+ANSWER:
+12 -->
+2
+3
+5
+7
+11
+
+
